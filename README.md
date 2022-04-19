@@ -2,3 +2,4 @@
 
 # Exercicio_C214-Teorico_CI
 Exercicio Prático da Disciplina de C214-Teoria (Engenharia de Software), abordando TDD e CI.
+Algoritmo rodando testes em cima de uma PILHA.
